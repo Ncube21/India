@@ -3,6 +3,11 @@
 
 #Try it -- Its Fun !!
 
+#Essentially, this string is an encoding for a map of India. The characters used alternate, with one character telling the programme how #many times to place a space, and the next telling it how many exclamation marks are needed.
+
+
+
+
 #include "stdio.h"
 int main()
 {
